@@ -1,6 +1,6 @@
 #  🙋‍♂️ About:
 ### Hi There!
-I am **Muiz**,<br>A Second Year Computer Engineering Undergrad.<br>I am passionate about AI, Environmental Sciences, Sustainable Development and Research towards these fields.<br>Currently working on FOCUS, a desktop application that aims to provide accessibility features to users with various needs. 
+I am **Muiz**,<br>A Second Year Computer Engineering Undergrad.<br>I am passionate about AI, Environment, Sustainable Development and Research towards these fields.<br>I am currently working on FOCUS, a desktop application that aims to provide accessibility features to users with various needs. 
 
 
 ## 🌐 Socials:
