@@ -3,7 +3,7 @@
 I am **Muiz**,<br>A Second Year Computer Engineering Undergrad.<br>I am passionate about AI, Environment, Sustainable Development and Research towards these fields.<br>I am currently working on FOCUS, a desktop application that aims to provide accessibility features to users with various needs. 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/muizzatam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muizzatam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MuizZatam) 
 
 # 💻 Tech Stack:
