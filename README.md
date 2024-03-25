@@ -1,7 +1,7 @@
 #  🙋‍♂️ About:
 ### Hi There!
 
-<img src="https://media.tenor.com/WC8oc8aG3xgAAAAi/work-office.gif" width="60px"/>
+<img src="https://media.tenor.com/WC8oc8aG3xgAAAAi/work-office.gif" width="80px"/>
 
 
 I am **Muiz**,<br>A Second Year Computer Engineering Undergrad.<br>I am passionate about AI, Environment, Sustainable Development and Research towards these fields.<br>I am currently working on FOCUS, a desktop application that aims to provide accessibility features to users with various needs. 
