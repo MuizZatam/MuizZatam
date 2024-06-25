@@ -1,5 +1,5 @@
 # 👋 About Me!
-I am Muiz,<br>A Second Year Computer Engineering Undergrad.<br>I am passionate about AI, Environment, Sustainable Development and Research towards these fields.<br>I am currently learning Python, Elixir and Frameworks relevant to my interests!
+I am **Muiz**,<br>A Second Year Computer Engineering Undergrad.<br>I am passionate about AI, Environment, Sustainable Development and Research towards these fields.<br>I am currently learning Python, Elixir and Frameworks relevant to my interests!
 
 <hr>
 
