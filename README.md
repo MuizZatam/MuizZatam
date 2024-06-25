@@ -11,7 +11,7 @@ I am **Muiz**,<br>A Second Year Computer Engineering Undergrad.<br>I am passiona
 
 
 # 📊 GitHub Stats!
-<center>![](https://github-readme-stats.vercel.app/api?username=MuizZatam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/></center>
-<center>![](https://github-readme-streak-stats.herokuapp.com/?user=MuizZatam&theme=nightowl&hide_border=false)<br/></center>
-<center>![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuizZatam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</center>
+![](https://github-readme-stats.vercel.app/api?username=MuizZatam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MuizZatam&theme=nightowl&hide_border=false)<br/></center>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuizZatam&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
