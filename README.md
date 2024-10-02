@@ -1,5 +1,5 @@
 # 👋 About Me!
-I am **Muiz**,<br>A Third Year Computer Engineering Undergrad.<br>I am learning Backend Development with Elixir and Python.<br>I am currently learning Python, Elixir and Frameworks relevant to my interests!
+I am **Muiz**,<br>A Third Year Computer Engineering Undergrad.<br>I am learning Backend Development with Elixir and Python.<br>I love Learning, Building and Experiencing what the World has to offer!
 
 
 # 💻 My Tech Stack!
