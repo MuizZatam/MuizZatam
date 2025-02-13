@@ -1,1 +1,1 @@
-![github banner](https://github.com/MuizZatam/MuizZatam/blob/main/github.gif)
+![github banner](https://github.com/MuizZatam/MuizZatam/blob/main/github.png)
